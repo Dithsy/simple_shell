@@ -28,7 +28,7 @@ int token_len(char *str, char *delim)
 
 /**
  * count_tokens - Counts the number of delimited
- *                words contained within a string.
+ *                words contained within string.
  * @str: The string to be searched.
  * @delim: The delimiter character.
  *
